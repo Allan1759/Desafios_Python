@@ -15,12 +15,6 @@ Os desafios incluem, mas não se limitam a:
 - **Análise de Dados**: Realize análises básicas em um conjunto de dados fornecido (por exemplo, cálculo de média, mediana, moda).
 - **Conversor de Moeda**: Crie um conversor de moeda que converta valores entre diferentes moedas usando taxas de câmbio atuais.
 
-## Como Participar
-
-1. **Fork** este repositório para o seu próprio GitHub.
-2. **Clone** o repositório para o seu ambiente local.
-3. Escolha um desafio e comece a trabalhar!
-4. Envie suas soluções através de **pull requests**.
 
 ## Contribuições
 
